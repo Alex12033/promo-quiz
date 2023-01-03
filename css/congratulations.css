@@ -1,0 +1,42 @@
+.congratulations-subtitle {
+  margin-top: 28px;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: center;
+  padding: 20px 0px;
+  border-radius: 8px;
+  width: 80%;
+  background-color: #F5F6FA;
+}
+
+.congratulations-subtitle > strong {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.ugg-boots {
+    margin-top: 28px;
+}
+
+.christmas-btn {
+    display: block;
+    margin: auto;
+    width: 70%;
+    padding: 15px 10px 15px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #008a2a;
+    margin-top: 34px;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: white;
+}
+
+.remainder-uggs {
+    margin-top: 10px;
+}

@@ -1,0 +1,72 @@
+.plombir-bottom-space {
+  margin-bottom: 70px;
+}
+
+.btn-enter-color {
+  cursor: pointer;
+  position: absolute;
+  top: 35%;
+  right: calc(0px - 20px);
+}
+
+.enter-ugg-color {
+  position: relative;
+  margin-top: 24px;
+}
+
+.ugg-slide {
+  border: 2px solid white;
+  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.ugg-slide:hover {
+  border: 2px solid green;
+}
+
+.enter-size {
+  margin-top: 40px;
+}
+
+.ugg-sizes {
+  margin-top: 21px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 250px;
+}
+
+.ugg-sizes > span {
+  border: 2px solid black;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px;
+  opacity: 0.7;
+}
+
+.ugg-sizes > span:hover {
+  border: 2px solid green;
+}
+
+.btn-winner {
+  margin-top: 50px;
+  display: block;
+  width: 70%;
+  padding: 15px 10px 15px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #008a2a;
+  text-transform: uppercase;
+  cursor: pointer;
+  color: white;
+}
+
+.loose-plombir-bag > img{
+  width: 250px;
+  height: 250px;
+}

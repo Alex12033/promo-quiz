@@ -1,0 +1,17 @@
+.quiz-6 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin-bottom: 20px;
+
+  width: 100%;
+}
+
+.quiz-6 > img {
+  width: 100%;
+}
+
+.quiz-6 .logo-start-quiz{
+  bottom: 0;
+}

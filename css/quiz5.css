@@ -1,0 +1,35 @@
+.quiz5-left-image {
+    position: absolute;
+    width: 100px;
+    top: 0;
+    left: 70px;
+
+    /* margin-left: 70px; */
+}
+
+.quiz5-right-image {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+}
+
+/* .size-left {
+    width: 140px;
+    margin-left: 150px;
+}
+
+.size-right {
+    width: 540px;
+} */
+
+@media (max-width: 450px) {
+    .quiz5-left-image {
+        width: 80px;
+    }
+}
+
+@media (max-width: 375px) {
+    .quiz5-left-image {
+        left: 35px;    }
+}

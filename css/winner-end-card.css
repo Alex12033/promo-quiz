@@ -1,0 +1,46 @@
+.main-text-card {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.main-text-card > span {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.instruction {
+  margin: 30px auto;
+  text-align: center;
+  font-family: Proxima Nova;
+  opacity: 0.5;
+
+  font-family: Lora;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.under-instruction {
+  margin: auto;
+  display: block;
+  font-family: Proxima Nova;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.end-section-companies {
+  text-align: center;
+  margin: 30px auto;
+  display: block;
+}

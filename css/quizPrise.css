@@ -1,0 +1,75 @@
+.logo-quiz-prise {
+  position: absolute;
+  /* top: 200px; */
+  bottom: 30px;
+  transform: translate(-50% -50%);
+}
+
+/* .quiz {
+  margin-top: 0;
+  padding-bottom: 72px;
+} */
+
+.quiz-variants {
+  margin-top: 10px;
+}
+
+.bags-prise {
+  margin-top: 14px;
+  width: 330px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.bag {
+  cursor: pointer;
+}
+
+/*bag style */
+.gray-loose-bag {
+  margin-top: 14px;
+}
+
+.gray-loose-btn {
+  display: block;
+  margin: auto;
+  margin-bottom: 50px;
+  width: 70%;
+  padding: 15px 10px 15px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #008a2a;
+  text-transform: uppercase;
+  cursor: pointer;
+  color: white;
+}
+
+.plombir-loose-btn {
+  display: block;
+  margin: auto;
+  margin-bottom: 50px;
+  width: 70%;
+  padding: 15px 10px 15px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #008a2a;
+  text-transform: uppercase;
+  cursor: pointer;
+  color: white;
+}
+
+.black-loose-btn {
+  display: block;
+  margin: auto;
+  margin-bottom: 50px;
+  width: 70%;
+  padding: 15px 10px 15px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #008a2a;
+  text-transform: uppercase;
+  cursor: pointer;
+  color: white;
+}
